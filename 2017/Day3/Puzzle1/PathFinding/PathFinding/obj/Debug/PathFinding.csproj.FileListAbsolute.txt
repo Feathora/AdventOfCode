@@ -1,0 +1,7 @@
+C:\Users\vince\Projects\AdventOfCode2017\Day3\Puzzle1\PathFinding\PathFinding\bin\Debug\PathFinding.exe.config
+C:\Users\vince\Projects\AdventOfCode2017\Day3\Puzzle1\PathFinding\PathFinding\bin\Debug\PathFinding.exe
+C:\Users\vince\Projects\AdventOfCode2017\Day3\Puzzle1\PathFinding\PathFinding\bin\Debug\PathFinding.pdb
+C:\Users\vince\Projects\AdventOfCode2017\Day3\Puzzle1\PathFinding\PathFinding\obj\Debug\PathFinding.csprojResolveAssemblyReference.cache
+C:\Users\vince\Projects\AdventOfCode2017\Day3\Puzzle1\PathFinding\PathFinding\obj\Debug\PathFinding.csproj.CoreCompileInputs.cache
+C:\Users\vince\Projects\AdventOfCode2017\Day3\Puzzle1\PathFinding\PathFinding\obj\Debug\PathFinding.exe
+C:\Users\vince\Projects\AdventOfCode2017\Day3\Puzzle1\PathFinding\PathFinding\obj\Debug\PathFinding.pdb
